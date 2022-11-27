@@ -11,8 +11,8 @@ Mapel   : Bahasa Pemrograman<br>
 
 # `Latihan Module 1`
 • Buat Dictionary daftar kontak<br>
-> • Nama sebagai key, dan nomor sebagai value
-> ![img](img//1.png)
+> • Nama sebagai key, dan nomor sebagai value<br>
+> ![img](img//1.png)<br>
 • Tampilkan kontaknya Ari<br>
 • Tambah kontak baru dengan nama Riko, nomor 087654544<br>
 • Ubah kontak Dina dengan nomor baru 088999776<br>
@@ -51,10 +51,10 @@ Mapel   : Bahasa Pemrograman<br>
 
 # `Tugas Praktikum`
 Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan : <br>
-> • Program dibuat dengan menggunakan Dictionary
-> • Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)
-> • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
-> • Buat flowchart dan penjelasan programnya
+> • Program dibuat dengan menggunakan Dictionary<br>
+> • Tampilkan menu pilihan: (Tambah Data, Ubah Data, Hapus Data, Tampilkan Data, Cari Data)<br>
+> • Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)<br>
+> • Buat flowchart dan penjelasan programnya<br>
 ![img](img//3.png)
 ![img](img//4.png)
 
