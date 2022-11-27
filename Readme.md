@@ -1,4 +1,4 @@
-# Tugas Python Pertemuan 9
+# Tugas Python Pertemuan 10
 ___
 Nama    : Muhammad Rizky<br>
 NIM     : 312210576<br>
