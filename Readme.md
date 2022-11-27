@@ -220,9 +220,9 @@ while True:
 ![img](img//6.png)
 ### Mengubah Data
 ![img](img//7.png)
-### Menghapus Data
-![img](img//8.png)
 ### Melihat data
+![img](img//8.png)
+### Menghapus Data
 ![img](img//9.png)
 ### Mencari Data
 ![img](img//10.png)
